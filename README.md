@@ -1,7 +1,7 @@
 ### Olá
 
-- Trabalho com .Net, C#, JS
-- Atualmente aprendendo Python
+- Estudante em desenvolvimento 
+
 
 <div align="left">
   <a href="https://github.com/leocasttro">
