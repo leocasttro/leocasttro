@@ -1,6 +1,7 @@
 ### Olá
 
-- Estudante em desenvolvimento 
+- Desenvolvedor trainne
+- Estudante análise e desenvolvimento de sistemas
 
 
 <div align="left">
