@@ -15,3 +15,7 @@
   <img align="center" alt="Leo-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 
 </div>
+<br>
+<div>
+  Conecte-se comigo no <a href='https://www.linkedin.com/in/leonardo-castro01/'>Linkedin</a> 
+</div>
