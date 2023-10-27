@@ -1,6 +1,6 @@
 ### Olá, sou Leonardo Castro
 
-- Desenvolvedor trainne
+- Desenvolvedor de software
 - Estudante de análise e desenvolvimento de sistemas
 
 
