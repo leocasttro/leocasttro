@@ -1,7 +1,7 @@
 ### Olá, sou Leonardo Castro
 
 - Desenvolvedor de software
-- Estudante de análise e desenvolvimento de sistemas
+- Graduado em análise e desenvolvimento de sistemas
 
 
 <div style="display: inline_block"><br>
